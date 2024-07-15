@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Happiness
 - 🌱 I’m currently learning ... RTOS
 - 💞️ I’m looking to collaborate on ... RTOS , C
-- 📫 How to reach me ...  sydhsnazm@gmail.com  
+- 📫 How to reach me ...  sydhsnazm@proton.me
 - 😄 Pronouns: ... shah s 
 - ⚡ Fun fact: ... garrbarrh tidh wich
 
